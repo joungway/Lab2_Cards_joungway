@@ -1,6 +1,6 @@
 import random
 
-#I just add a comment here 
+#I just add a comment here
 
 class Card(object):
     suit_names =  ["Diamonds","Clubs","Hearts","Spades"]
